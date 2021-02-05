@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box; 
+}
+
+
+.icon-bar{
+  width: 40px;
+  height: 4px;
+  background-color: white;
+  margin: 6px 0;
+}
+
+
+
+.nav-item{
+	text-decoration: none;
+	text-align: center;
+    padding: 0;
+	margin: 0;
+	width: 100%;
+	color: white;
+	border-bottom: 1px solid black;
+	display: block;
+}
+
+#menu{
+
+	margin:10px;
+}
+.item-name{
+	color:#641010 ;
+	font-size: 1.5em;
+	padding:5px;
+	margin:5px;
+	text-align:center;	
+}
+
+.box{
+	background-color: #6A957D;
+
+}
